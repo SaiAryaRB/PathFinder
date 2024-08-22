@@ -20,10 +20,17 @@ Find Shortest Path Through an Intermediate Node
 If you need to find the shortest path between two nodes while passing through an intermediate node, select the "Dijkstra's Algorithm through an Intermediate Node" option. Enter the start node, intermediate node, and end node to get the desired path and distance.
 
 Features
-Graph Representation: The graph is represented using an adjacency list, which efficiently stores edges and their weights.
-Dijkstra's Algorithm: Two implementations of Dijkstra's algorithm are available: one for finding the shortest path between two nodes and another for finding the shortest path through an intermediate node.
-Dynamic Graph Manipulation: You can dynamically add and delete nodes in the graph.
-User-Friendly Menu: The program provides an interactive menu to navigate through its various features.
+
+Graph Representation: 
+The graph is represented using an adjacency list, which efficiently stores edges and their weights.
+Dijkstra's Algorithm: 
+Two implementations of Dijkstra's algorithm are available: one for finding the shortest path between two nodes and another for finding the shortest path through an intermediate node.
+Dynamic Graph Manipulation: 
+You can dynamically add and delete nodes in the graph.
+User-Friendly Menu: 
+The program provides an interactive menu to navigate through its various features.
+
+
 Contributing
 Contributions are welcome! If you find a bug or want to improve the program, feel free to fork the repository and submit a pull request.
 
